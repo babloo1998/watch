@@ -1,0 +1,16 @@
+body{
+	background: #0287c4;
+}
+p{
+	margin: 0px;
+	width:50%;
+	color: white;
+	margin: auto;
+	text-align: center;
+	margin-top: 150px; 
+}
+#digital-clock{
+	font-size: 100px;
+	padding-bottom: 30px;
+}
+
